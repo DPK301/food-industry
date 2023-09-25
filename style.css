@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+}
+header{ color: black;
+    background-color:  rgb(23, 204, 216);
+    width: 100%;
+    height: 50px;
+    
+}
+header h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative;
+    top: 13px;
+    font-size: 30px;
+}
+footer{
+    background-color:  rgb(23, 204, 216);
+    width: 100%;
+    height: 90px;
+}
+ #footerdiv{
+    color: white;
+    text-align: center;
+ }
+ i{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+   left: 1200px;
+   top: 15px;
+}
+.logo{
+    width: 100%;
+    height: 39px;
+}
+.slogo{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+   left: 1200px;
+   top: 57px;
+
+}
+.flogo{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+   left: 1150px;
+   top: 57px;
+
+}
+
+input{
+    height: 19px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+    border: 1px solid rgb(23, 204, 216);
+
+}
+.search{
+    width: 15px; height: 19px;
+    position: relative;
+    top: 3px;
+    left: 1px;
+}
+.bsearch{
+    position: relative;
+    left: 25px;
+    top: 10px;
+    background-color: rgb(23, 204, 216);
+    border: 1px solid rgb(23, 204, 216);
+}
+.sticky{
+    background-color: rgb(23, 204, 216);
+    width: 100%;
+    height: 50px;
+   
+    top:0px;
+    margin-bottom: 3px;
+    justify-content: left;
+   
+}
+.row{background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 325px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: px;
+
+ }
+ .col{ background-color: rgb(255, 255, 255);
+    width: 370px;
+    height: 300px;
+   margin-top: 7px;
+    
+    
+ }
+ .col img{
+    height: 300px;
+    width: 370px;
+    
+ }
+ .writing{ background-color:white;
+    height: 300px;
+    width: 700px;
+    margin-top: 7px;
+    text-align: left;
+   
+   
+ }
+ .writing P{
+    position: relative;
+    top: 30PX;
+    
+ }
+ .sticky h3{
+    position:relative;
+    left: 30px;
+    top: 10px;
+    font-size: 30px;
+   
+ }
+ .star{
+    position: relative;
+    top: 50px;
+ }
+ .checked{
+    color: orange;
+ }
+ video{
+    width: 100%;
+    height: 500px;
+    object-fit: fill;
+    
+    }
+    .overlay{
+        color: white;
+        position: absolute;
+        top: 250px;
+        left: 530px;
+        font-size: 50px;
+        justify-content: center;
+    
+    
+    }
